@@ -1,5 +1,5 @@
 {
-  "name": "yzytest-cli",
+  "name": "uyangest-cli",
   "version": "1.0.1",
   "description": "",
   "main": "lib/main.js",
@@ -22,5 +22,6 @@
     "files": [
       "lib/**/*.spec.js"
     ]
-  }
+  },
+  "gitHead": "8e374f77e84be4d2ac073df93e24c53e5705f350"
 }

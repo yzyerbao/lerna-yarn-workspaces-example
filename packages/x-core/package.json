@@ -1,5 +1,5 @@
 {
-  "name": "yzytest-core",
+  "name": "uyangest-core",
   "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
@@ -13,5 +13,6 @@
   },
   "devDependencies": {
     "typescript": "~3.0.0"
-  }
+  },
+  "gitHead": "8e374f77e84be4d2ac073df93e24c53e5705f350"
 }
