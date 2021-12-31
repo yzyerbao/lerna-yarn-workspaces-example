@@ -6,7 +6,11 @@
   "scripts": {
     "test": "ava"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "601f0219d4cebed343a20414f05dace4bf4b7c9d"
 }
