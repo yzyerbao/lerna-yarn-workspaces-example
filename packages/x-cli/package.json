@@ -1,27 +1,12 @@
 {
-  "name": "uyangest-cli",
+  "name": "@yzydcs/cli",
   "version": "1.0.3",
   "description": "",
-  "main": "lib/main.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "ava"
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "@quramy/x-core": "^1.0.0",
-    "@types/node": "^8.0.28",
-    "minimist": "^1.2.0"
-  },
-  "devDependencies": {
-    "ava": "^0.22.0",
-    "typescript": "~3.0.0"
-  },
-  "ava": {
-    "files": [
-      "lib/**/*.spec.js"
-    ]
-  },
-  "gitHead": "8e374f77e84be4d2ac073df93e24c53e5705f350"
+  "license": "MIT"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "uyangest-core",
+  "name": "@yzydcs/core",
   "version": "1.0.3",
   "description": "",
   "main": "lib/index.js",
@@ -7,12 +7,5 @@
   "scripts": {},
   "keywords": [],
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "@types/node": "^8.0.28"
-  },
-  "devDependencies": {
-    "typescript": "~3.0.0"
-  },
-  "gitHead": "8e374f77e84be4d2ac073df93e24c53e5705f350"
+  "license": "MIT"
 }
